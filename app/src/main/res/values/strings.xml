@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <string name="bt_first_fragment">1</string>
+    <string name="bt_second_fragment">2</string>
+    <string name="bt_third_fragment">3</string>
+    <string name="bt_second_activity">4</string>
+
+    <string name="tv_first_fragment">This is First Fragment</string>
+    <string name="tv_second_fragment">This is Second Fragment</string>
+    <string name="tv_third_fragment">This is Third Fragment</string>
+    <string name="tv_fourth_fragment">This is Fourth Fragment</string>
+    <string name="title_activity_simple">Second Activity</string>
+</resources>
